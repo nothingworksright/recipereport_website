@@ -2,8 +2,10 @@
 
 Know more about your food.  
 
+<!-- -->
 > "How much money did one portion of this recipe cost me exactly, and how much nutrition did I get from it?"  
 
+<!-- -->
 > "Is this sale price really lower than I paid last time, and for the same size?"
 
 ## About  
