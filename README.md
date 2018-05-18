@@ -10,4 +10,4 @@ Hosting of this website is provided by [GitHub Pages](https://pages.github.com/)
 
 ## Badges  
 
-[![Code Climate](https://codeclimate.com/github/nothingworksright/recipereport_website/badges/gpa.svg)](https://codeclimate.com/github/nothingworksright/recipereport_website) [![Issue Count](https://codeclimate.com/github/nothingworksright/recipereport_website/badges/issue_count.svg)](https://codeclimate.com/github/nothingworksright/recipereport_website)  
+[![Code Climate](https://codeclimate.com/github/nothingworksright/recipereport_website/badges/gpa.svg)](https://codeclimate.com/github/nothingworksright/recipereport_website)  
